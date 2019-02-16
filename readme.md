@@ -4,5 +4,4 @@ This algorithm implements a faster Hough transform using the basic idea of the o
 The idea is to avoid to generate all the possible lines for every pixel of the edge map, but instead to calculate only the lines that can really belong to the image. <br>
 
 #### Documentation
-Everything needed to understand the algorithm, from the basic idea to the implementation is explained in the <br>
-"presentation.pdf" file.
+Everything needed to understand the algorithm, from the basic idea to the implementation is explained in [this nice presentation] (https://github.com/MarcoCadei/Fast-Hough-Contour/blob/master/presentation.pdf).
